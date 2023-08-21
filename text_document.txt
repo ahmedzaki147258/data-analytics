@@ -1,0 +1,85 @@
+The interactions between humans and their physical surroundings have been extensively studied, as multiple human activities influence the environment.
+The environment is a coupling of the biotic (living organisms and microorganisms) and the abiotic (hydrosphere, lithosphere, and atmosphere).
+Pollution is defined as the introduction into the environment of substances harmful to humans and other living organisms.
+Pollutants are harmful solids, liquids, or gases produced in higher than usual concentrations that reduce the quality of our environment.
+Human activities have an adverse effect on the environment by polluting the water we drink, the air we breathe, and the soil in which plants grow.
+Although the industrial revolution was a great success in terms of technology, society, and the provision of multiple services, it also introduced the production of huge quantities of pollutants emitted into the air that are harmful to human health.
+Without any doubt, the global environmental pollution is considered an international public health issue with multiple facets.
+Social, economic, and legislative concerns and lifestyle habits are related to this major problem.
+Clearly, urbanization and industrialization are reaching unprecedented and upsetting proportions worldwide in our era.
+Anthropogenic air pollution is one of the biggest public health hazards worldwide, given that it accounts for about 9 million deaths per year.
+Without a doubt, all of the aforementioned are closely associated with climate change, and in the event of danger, the consequences can be severe for mankind.
+Climate changes and the effects of global planetary warming seriously affect multiple ecosystems, causing problems such as food safety issues, ice and iceberg melting, animal extinction, and damage to plants.
+Air pollution has various health effects.
+The health of susceptible and sensitive individuals can be impacted even on low air pollution days.
+Short-term exposure to air pollutants is closely related to COPD (Chronic Obstructive Pulmonary Disease), cough, shortness of breath, wheezing, asthma, respiratory disease, and high rates of hospitalization (a measurement of morbidity).
+The long-term effects associated with air pollution are chronic asthma, pulmonary insufficiency, cardiovascular diseases, and cardiovascular mortality.
+According to a Swedish cohort study, diabetes seems to be induced after long-term air pollution exposure.
+Moreover, air pollution seems to have various malign health effects in early human life, such as respiratory, cardiovascular, mental, and perinatal disorders, leading to infant mortality or chronic disease in adult age.
+National reports have mentioned the increased risk of morbidity and mortality.
+These studies were conducted in many places around the world and show a correlation between daily ranges of particulate matter (PM) concentration and daily mortality.
+Climate shifts and global planetary warming could aggravate the situation.
+Besides, increased hospitalization (an index of morbidity) has been registered among the elderly and susceptible individuals for specific reasons.
+Fine and ultrafine particulate matter seems to be associated with more serious illnesses, as it can invade the deepest parts of the airways and more easily reach the bloodstream.
+Air pollution mainly affects those living in large urban areas, where road emissions contribute the most to the degradation of air quality.
+There is also a danger of industrial accidents, where the spread of a toxic fog can be fatal to the populations of the surrounding areas.
+The dispersion of pollutants is determined by many parameters, most notably atmospheric stability and wind.
+In developing countries, the problem is more serious due to overpopulation and uncontrolled urbanization along with the development of industrialization.
+This leads to poor air quality, especially in countries with social disparities and a lack of information on sustainable management of the environment.
+The use of fuels such as wood fuel or solid fuel for domestic needs due to low incomes exposes people to bad-quality, polluted air at home.
+It is of note that three billion people around the world are using the above sources of energy for their daily heating and cooking needs.
+In developing countries, the women of the household seem to carry the highest risk for disease development due to their longer duration exposure to the indoor air pollution.
+Due to its fast industrial development and overpopulation, China is one of the Asian countries confronting serious air pollution problems.
+The lung cancer mortality observed in China is associated with fine particles. As stated already, long-term exposure is associated with deleterious effects on the cardiovascular system.
+However, it is interesting to note that cardiovascular diseases have mostly been observed in developed and high-income countries rather than in the developing low-income countries exposed highly to air pollution.
+Extreme air pollution is recorded in India, where the air quality reaches hazardous levels.
+New Delhi is one of the more polluted cities in India.
+Flights in and out of New Delhi International Airport are often canceled due to the reduced visibility associated with air pollution.
+Pollution is occurring both in urban and rural areas in India due to the fast industrialization, urbanization, and rise in use of motorcycle transportation.
+Nevertheless, biomass combustion associated with heating and cooking needs and practices is a major source of household air pollution in India and in Nepal.
+There is spatial heterogeneity in India, as areas with diverse climatological conditions and population and education levels generate different indoor air qualities, with higher PM2.5 observed in North Indian states (557–601 μg/m3) compared to the Southern States (183–214 μg/m3).
+The cold climate of the North Indian areas may be the main reason for this, as longer periods at home and more heating are necessary compared to in the tropical climate of Southern India.
+Household air pollution in India is associated with major health effects, especially in women and young children, who stay indoors for longer periods.
+Chronic obstructive respiratory disease (CORD) and lung cancer are mostly observed in women, while acute lower respiratory disease is seen in young children under 5 years of age.
+Accumulation of air pollution, especially sulfur dioxide and smoke, reaching 1,500 mg/m3, resulted in an increase in the number of deaths (4,000 deaths) in December 1952 in London and in 1963 in New York City (400 deaths).
+An association of pollution with mortality was reported on the basis of monitoring of outdoor pollution in six US metropolitan cities.
+In every case, it seems that mortality was closely related to the levels of fine, inhalable, and sulfate particles more than with the levels of total particulate pollution, aerosol acidity, sulfur dioxide, or nitrogen dioxide.
+Furthermore, extremely high levels of pollution are reported in Mexico City and Rio de Janeiro, followed by Milan, Ankara, Melbourne, Tokyo, and Moscow.
+Based on the magnitude of the public health impact, it is certain that different kinds of interventions should be taken into account.
+Success and effectiveness in controlling air pollution, specifically at the local level, have been reported.
+Adequate technological means are applied considering the source and the nature of the emission as well as its impact on health and the environment.
+The importance of point sources and non-point sources of air pollution control is reported by Schwela and Köth-Jahr.
+Without a doubt, a detailed emission inventory must record all sources in a given area.
+Beyond considering the above sources and their nature, topography and meteorology should also be considered, as stated previously.
+Assessment of the control policies and methods is often extrapolated from the local to the regional and then to the global scale.
+Air pollution may be dispersed and transported from one region to another area located far away.
+Air pollution management means the reduction to acceptable levels or possible elimination of air pollutants whose presence in the air affects our health or the environmental ecosystem.
+Private and governmental entities and authorities implement actions to ensure the air quality.
+Air quality standards and guidelines were adopted for the different pollutants by the WHO and EPA as a tool for the management of air quality.
+These standards have to be compared to the emissions inventory standards by causal analysis and dispersion modeling in order to reveal the problematic areas.
+Inventories are generally based on a combination of direct measurements and emissions modeling.
+As an example, we state here the control measures at the source through the use of catalytic converters in cars.
+These are devices that turn the pollutants and toxic gases produced from combustion engines into less-toxic pollutants by catalysis through redox reactions.
+In Greece, the use of private cars was restricted by tracking their license plates in order to reduce traffic congestion during rush hour.
+Concerning industrial emissions, collectors and closed systems can keep the air pollution to the minimal standards imposed by legislation.
+Current strategies to improve air quality require an estimation of the economic value of the benefits gained from proposed programs.
+These proposed programs by public authorities, and directives are issued with guidelines to be respected.
+In Europe, air quality limit values AQLVs (Air Quality Limit Values) are issued for setting off planning claims.
+In the USA, the NAAQS (National Ambient Air Quality Standards) establish the national air quality limit values.
+While both standards and directives are based on different mechanisms, significant success has been achieved in the reduction of overall emissions and associated health and environmental effects.
+The European Directive identifies geographical areas of risk exposure as monitoring/assessment zones to record the emission sources and levels of air pollution, whereas the USA establishes global geographical air quality criteria according to the severity of their air quality problem and records all sources of the pollutants and their precursors.
+In this vein, funds have been financing, directly or indirectly, projects related to air quality along with the technical infrastructure to maintain good air quality.
+These plans focus on an inventory of databases from air quality environmental planning awareness campaigns.
+Moreover, pollution measures of air emissions may be taken for vehicles, machines, and industries in urban areas.
+Technological innovation can only be successful if it is able to meet the needs of society.
+In this sense, technology must reflect the decision-making practices and procedures of those involved in risk assessment and evaluation and act as a facilitator in providing information and assessments to enable decision makers to make the best decisions possible.
+Summarizing the aforementioned in order to design an effective air quality control strategy, several aspects must be considered: environmental factors and ambient air quality conditions, engineering factors and air pollutant characteristics, and finally, economic operating costs for technological improvement and administrative and legal costs.
+Considering the economic factor, competitiveness through neoliberal concepts is offering a solution to environmental problems.
+The development of environmental governance, along with technological progress, has initiated the deployment of a dialogue.
+Environmental politics has created objections and points of opposition between different political parties, scientists, media, and governmental and non-governmental organizations.
+Radical environmental activism actions and movements have been created.
+The rise of the new information and communication technologies (ICTs) are many times examined as to whether and in which way they have influenced means of communication and social movements such as activism.
+Since the 1990s, the term “digital activism” has been used increasingly and in many different disciplines.
+Nowadays, multiple digital technologies can be used to produce a digital activism outcome on environmental issues.
+More specifically, devices with online capabilities such as computers or mobile phones are being used as a way to pursue change in political and social affairs.
+In the present paper, we focus on the sources of environmental pollution in relation to public health and propose some solutions and interventions that may be of interest to environmental legislators and decision makers.
